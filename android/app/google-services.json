@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299101832426",
+    "firebase_url": "https://firechat-bdfd7.firebaseio.com",
+    "project_id": "firechat-bdfd7",
+    "storage_bucket": "firechat-bdfd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299101832426:android:ff3146b09447c729ddc393",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299101832426-72detfe1p5bsqpgflvelhq510ev2n9re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8q-tgsSxYhBL7NT4AmpN2bvX_Sga5qRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299101832426-72detfe1p5bsqpgflvelhq510ev2n9re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

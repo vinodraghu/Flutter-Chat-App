@@ -129,6 +129,7 @@ class StreamWidget extends StatelessWidget {
         for (var message in messages) {
           final messageText = message.data['text'];
           final messageSender = message.data['user'];
+          print('message $messageText');
           final messageBubble = MessageBubble(
             messageSender: messageSender,
             messageText: messageText,
@@ -153,6 +154,8 @@ class MessageBubble extends StatelessWidget {
   final String messageText;
   final String messageSender;
   final bool isMe;
+
+
 
   @override
   Widget build(BuildContext context) {
